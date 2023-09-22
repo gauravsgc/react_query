@@ -40,7 +40,7 @@ export default function App() {
       
 {/* to wrap a react query for your entire app */}
 
-
+{/* amit */}
 
         <button onClick={()=>setCurrentPage(<PostList1/>)}>PostList1</button>
         <button onClick={()=>setCurrentPage(<PostList2/>)}>PostList2</button>
